@@ -1,3 +1,8 @@
+
+
+/* Arduino IDE Code for Home Intelligence System */
+
+
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 #include <DHT.h>
@@ -8,8 +13,8 @@
 #define RELAY1_PIN D8   // Relay 1 Pin
 #define RELAY2_PIN D7   // Relay 2 Pin
 
-#define WIFI_SSID "ASHUTOSH"
-#define WIFI_PASSWORD "ashu2004"
+#define WIFI_SSID "Priyanshu "
+#define WIFI_PASSWORD "priyanshu"
 
 // Initialize Objects
 DHT dht(DHT_PIN, DHT11); 
