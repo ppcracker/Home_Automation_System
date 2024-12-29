@@ -1,21 +1,20 @@
-//Nodejs(npm) backend Usage of the flask-api...
+
 const express = require('express');
 const axios = require('axios');
 const bodyParser = require('body-parser');
 
 const axios = require('axios');
 
-// base url fetched of flask ...
+
 const BASE_URL = 'http://127.0.0.1:5000';
 
 
 
 const app = express();
-const PORT = 3000; //Demo on 3000 ..after that use .env file for running it on linux server...
+const PORT = 3000; 
 app.use(bodyParser.json());
 
 
-// async-await && try-catch for js console check.
 app.post('/predict_behavior', async (req, res) => {
   const { T, rh, wd } = req.body; 
   try {
@@ -27,7 +26,7 @@ app.post('/predict_behavior', async (req, res) => {
   }
 });
 
-//forecasr-energy
+//forecast-energy-usage
 app.post('/forecast_energy', async (req, res) => {
   const { sequence } = req.body;
   try {
@@ -51,7 +50,7 @@ app.post('/detect_anomaly', async (req, res) => {
   }
 });
 
-// Start the server
+// Server Starting...
 app.listen(PORT, () => {
   console.log(`Node.js backend is running on http://localhost:${PORT}`);
 });
