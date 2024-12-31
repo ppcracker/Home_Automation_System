@@ -1,6 +1,5 @@
 # IntelliHome: Advanced Smart Home Automation System
 
-![IntelliHome Banner](https://example.com/banner-image.png)
 
 > **An intelligent and adaptive smart home system integrating Machine Learning for predictive control, energy efficiency, and enhanced security.**
 
@@ -21,7 +20,7 @@
 
 ### 🔒 Enhanced Security
 - Motion detection with PIR sensors and real-time anomaly alerts for unexpected events.
-- Future-proof system with modular design for additional security features like facial recognition.
+- Future-proof system with modular design for additional security features like facial recognition*.
 
 ---
 
@@ -44,7 +43,7 @@
 
 ## 📐 System Architecture
 
-![System Architecture Diagram](https://example.com/system-architecture.png)
+
 
 1. **Data Collection**: Sensors collect real-time environmental data.
 2. **Data Processing**: Raspberry Pi processes data with ML models.
@@ -108,11 +107,6 @@
 - **Model**: Isolation Forest.
 - **Purpose**: Detect unusual patterns for enhanced security.
 
----
-
-## 🖼️ System Demonstration
-
-![Dashboard Demo](https://example.com/dashboard-demo.gif)
 
 ---
 
@@ -133,11 +127,6 @@
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🌟 Acknowledgements
 - Open-source libraries and tools.
 - Community contributions.
@@ -145,5 +134,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 📬 Contact
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: priyanshs.ece@gmail.com
+- **GitHub**: [priyanshuhbti](https://github.com/priyanshuhbti)
+
+---
+
+- ## 📬 Collabrator
+- **Name**: Deepika Yadav
+- **GitHub**: [ppcracker](https://github.com/ppcracker)
