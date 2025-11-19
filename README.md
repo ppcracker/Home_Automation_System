@@ -133,12 +133,6 @@
 
 ---
 
-## 📬 Contact
-- **Email**: priyanshs.ece@gmail.com
-- **GitHub**: [priyanshuhbti](https://github.com/priyanshuhbti)
-
----
-
-- ## 📬 Collabrator
+- ## 📬 Contact
 - **Name**: Deepika Yadav
 - **GitHub**: [ppcracker](https://github.com/ppcracker)
